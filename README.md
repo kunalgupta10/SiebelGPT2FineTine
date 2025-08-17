@@ -10,3 +10,5 @@ Baseline generation (Before fine-tuning)
 Fine-tune GPT-2 with Hugging Face Trainer
 Compare outputs (After fine-tuning) side-by-side
 Optional: Save & export your fine-tuned model
+Below are the Results of the model
+<img width="1497" height="630" alt="image" src="https://github.com/user-attachments/assets/ea239b4c-6c81-4e09-8466-db76e8b9ee51" />
